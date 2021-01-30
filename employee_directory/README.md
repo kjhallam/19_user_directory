@@ -11,6 +11,9 @@
 
 * As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
+- The user is allowed to search the directory of employees using the first and last name. 
+- In addition they would be able to sort according to ascending and descending by selecting the arrow next to First Name and Last Name.
+
 ---
 
 ## 📋 Table of Contents
@@ -58,10 +61,10 @@ N/A
 
 ---
 
-## 🎥 SCREENSHOTS
+## 📷 SCREENSHOTS
 
 ![employee-main](./src/images/EMP-DIR.jpg)
-![search](./src/images/Search.jpg)
+![search](./src/images/SEARCH.jpg)
 
 ---
 
