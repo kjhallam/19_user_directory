@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/19_user_directory/static/css/main.cd811f85.chunk.css",
+    "main.js": "/19_user_directory/static/js/main.d000a3ed.chunk.js",
+    "main.js.map": "/19_user_directory/static/js/main.d000a3ed.chunk.js.map",
+    "runtime-main.js": "/19_user_directory/static/js/runtime-main.a1a96b6f.js",
+    "runtime-main.js.map": "/19_user_directory/static/js/runtime-main.a1a96b6f.js.map",
+    "static/js/2.50cdf010.chunk.js": "/19_user_directory/static/js/2.50cdf010.chunk.js",
+    "static/js/2.50cdf010.chunk.js.map": "/19_user_directory/static/js/2.50cdf010.chunk.js.map",
+    "index.html": "/19_user_directory/index.html",
+    "static/css/main.cd811f85.chunk.css.map": "/19_user_directory/static/css/main.cd811f85.chunk.css.map",
+    "static/js/2.50cdf010.chunk.js.LICENSE.txt": "/19_user_directory/static/js/2.50cdf010.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/19_user_directory/static/media/blue-business-background-vector.a848045c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a96b6f.js",
+    "static/js/2.50cdf010.chunk.js",
+    "static/css/main.cd811f85.chunk.css",
+    "static/js/main.d000a3ed.chunk.js"
+  ]
+}
