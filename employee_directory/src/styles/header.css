@@ -1,0 +1,21 @@
+.jumbotron {
+    align-items: center; 
+    background-image: url(/src/images/blue-business-background-vector.jpg);
+    box-shadow: 0px 0px 0px 10px darkgray;
+    width: 100vw;
+    height: 250px;
+}
+
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 72px;
+    text-shadow: 0px 0px 45px black;
+}
+
+p {
+    align-items: center;
+    color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}

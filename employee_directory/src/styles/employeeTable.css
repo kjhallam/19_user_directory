@@ -1,0 +1,37 @@
+/* table.table-striped {
+    margin: 10px 20px;
+} */
+
+thead {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+td {
+    width: 280px;
+    padding: 3px 12px;
+    margin: 3px 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.down-arrow {
+    width: 1;
+    height: 8;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    cursor: pointer;
+    border-top: 10px solid navy;
+    margin-top: 50px;
+    position: relative;
+    top: 15px;
+    left: 9px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="table"] {
+      width: 100vw;
+    }
+}

@@ -1,0 +1,22 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+input.form-control {
+    justify-items: center;
+    border-radius: 13px;
+    box-shadow: 0 0 10px 3px lightgray;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 30px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    [class*="form-group"] {
+      margin: 0px;
+      padding: 0px;
+    }
+}
